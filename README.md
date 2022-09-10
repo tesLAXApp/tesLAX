@@ -39,3 +39,11 @@ Do not use tesLAX while driving.  Please obey all traffic laws and do not drive 
 
 You accept full and unconditional responsibility for the use of this software. All About Jake, LLC is not responsible for any consequences of using this software, including any damage to your vehicle, loss, damage to property, personal injury, or violation of law that may occur in connection with using this application.  Obey all laws and respect the privacy of others. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.  The author(s) and copyright holders shall not be liable for any damages, even if advised beforehand of the possibility of such damages.
 
+## This repository
+
+This repository contains pre-release preset files.  Users with the "Extra Strength" level can import a TLP
+file into their presets list:
+
+- Place the TLP file in iCloud drive or in a location that can be opened using "Open File..."
+- Open tesLAX, and in the menu select "Open File..." and chose the TLP file you wish to import
+- Import the file and it will appear in your presets list.
